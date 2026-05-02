@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Meritor Open 2.64 (Rutero Ultra Largo)",
+    "type": "open",
+    "ratio": 2.64
+  },
+  {
+    "name": "Eaton Open 3.08 (Rutero Estándar)",
+    "type": "open",
+    "ratio": 2.433
+  },
+  {
+    "name": "Dana Torsen LSD 3.73 (Mixto)",
+    "type": "torsen",
+    "ratio": 3.73
+  },
+  {
+    "name": "Rockwell Locked 4.56 (Heavy Haul / Forestal)",
+    "type": "locked",
+    "ratio": 4.56
+  }
+]
